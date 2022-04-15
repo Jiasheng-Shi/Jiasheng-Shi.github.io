@@ -62,6 +62,7 @@ nav: true
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">Paper</a></span>
 	  </div>
   </div>
+<br>
 
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/STNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
 	</div>
