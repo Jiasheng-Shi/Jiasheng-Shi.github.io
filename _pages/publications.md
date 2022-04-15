@@ -11,7 +11,7 @@ nav: true
 <b> 2022 </b> 
 
 	
-<div class="publications">	
+	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
@@ -30,7 +30,7 @@ nav: true
 
 <hr>
 	
-<div class="publications">	
+	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
 </div>
   <div class="text">
@@ -103,7 +103,7 @@ nav: true
   </div>
 <hr>
 
-<div class="publications">	
+	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-VFD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_tsr-vfd" align="left">
 </div>
   <div class="text">
