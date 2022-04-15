@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Postdoctoral Scholar<br><a href="http://computationalimaging.org/">Computational Imaging Lab</a><br><a href="https://www.stanford.edu/">Stanford University</a> 
+description: PhD<br><a href="http://computationalimaging.org/">Computational Imaging Lab</a><br><a href="https://www.stanford.edu/">Stanford University</a> 
 
 profile:
   align: right 
@@ -13,9 +13,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I'm a postdoctoral scholar at Stanford University in the [Computational Imaging Lab](http://www.computationalimaging.org/){:target="_blank"} advised by [Gordon Wetzstein](https://stanford.edu/~gordonwz/). My work is at the intersection of machine learning, computational imaging, and computer vision. Along these lines I've worked on next-generation computational imaging systems for [imaging around corners](http://go.ted.com/davidlindell/){:target="_blank"} and through scattering media, and new machine learning algorithms for representing and processing signals. My work is relevant to a broad range of applications in computer graphics, vision, and remote sensing. 
+I received Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Chaoli Wang](http://sites.nd.edu/chaoli-wang/). Before that, I obtained my BS in Software Engineering and MS in Computer Software and Theory. Both are from [Xidian University](https://www.xidian.edu.cn/). My research interests lie in the general area of human-computer interaction, scientific visualization and machine learning.
 
-**I'll be joining the CS department at the University of Toronto in July 2022!**
+**I'll be joining the Schoole of Data Science at the Chinese University of Hong Kong, Shenzhen in June 2022!**
 
 {% comment %}
 Students interested in joining my group starting in Fall 2022 should apply to the [Department of Computer Science](https://web.cs.toronto.edu/graduate/prospective). More on [this page](/joining).
