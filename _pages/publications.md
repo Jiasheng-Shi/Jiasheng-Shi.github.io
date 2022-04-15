@@ -10,6 +10,59 @@ nav: true
 <div class="publications">
   
 <b> 2022 </b> 
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a></div> 
+    <div class="authors">
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author"><b>Jun Han</b></span>
+	     
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">Paper</a></span>
+	  </div>
+	  <div>
+  </div>
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/publications/iui22-aqx.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
+    <div class="authors">
+	    <span class="author">Reshika Palaniyappan Velumani</span>,
+	    <span class="author">Meng Xia</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">Alexis Lau</span>,
+	    <span class="author">Huaming Qu</span>
+	     
+    </div>
+	  <div>
+                  <span class="venue">Visual Informatics</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/iui22-aqx.pdf">Paper</a></span>
+	  </div>
+	  <div>
+  </div>	  
+	  
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Chaoli Wang</span>
+	     
+    </div>
+	  <div>
+                  <span class="venue">Visual Informatics</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/VCNet.pdf">Paper</a></span>
+	  </div>
+	  <div>
+  </div>
+	  
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
