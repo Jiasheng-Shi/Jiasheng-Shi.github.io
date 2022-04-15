@@ -79,7 +79,7 @@ nav: true
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/vis21-stnet.pdf">Paper</a></span>
 	  </div>
   </div>
-	
+	<hr>
 
 <br> 
 <b> 2020 </b>
@@ -99,6 +99,7 @@ nav: true
                   <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
 	  </div>
-  </div>	
+  </div>
+	<hr>
  
  </div>
