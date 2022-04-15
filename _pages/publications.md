@@ -15,8 +15,9 @@ nav: true
   <div class="text">
     <div class="title"><a name="shape2prog_iclr" href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data</a></div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>,
-	     <span class="author">Chaoli Wang</span>
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author"><b>Jun Han</b></span>
+	     
     </div>
 	  <div>
                   <span class="venue">IEEE TVCG</span> /
