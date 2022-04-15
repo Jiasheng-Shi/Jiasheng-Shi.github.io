@@ -27,6 +27,8 @@ nav: true
 	  <div>
   </div>
 
+	  <br>
+
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
   <div class="text">
@@ -46,6 +48,8 @@ nav: true
 	  </div>
 	  <div>
   </div>	  
+
+<br>
 	  
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
 	</div>
@@ -63,7 +67,8 @@ nav: true
 	  <div>
   </div>
 	  
-  
+  <br>
+	  
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
   <div class="text">
