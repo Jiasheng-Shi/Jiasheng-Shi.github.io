@@ -30,7 +30,7 @@ nav: true
   </div>
 
 
-  <b> 2021 </b> 
+  <b> 2021 </b> <br>
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
@@ -51,7 +51,7 @@ nav: true
   </div>
 	  
 	  
-<b> 2020 </b> 
+<b> 2020 </b> <br>
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
@@ -72,7 +72,7 @@ nav: true
   </div>
 	  
 	  
-<b> 2019 </b> 
+<b> 2019 </b> <br>
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
