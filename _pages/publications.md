@@ -63,7 +63,24 @@ nav: true
 	  </div>
   </div>
 
-<br> <b> 2019 </b>
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/STNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/pdf/vis21-stnet.pdf">STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Hao Zheng</span>,
+	     <span class="author">Danny Chen</span>,
+	    <span class="author">Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/vis21-stnet.pdf">Paper</a></span>
+	  </div>
+  </div>
+	
+
+<br> <b> 2020 </b>
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
