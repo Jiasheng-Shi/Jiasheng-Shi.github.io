@@ -41,7 +41,6 @@ nav: true
 	    <span class="author">Chaoli Wang</span>,
 	    <span class="author">Alexis Lau</span>,
 	    <span class="author">Huaming Qu</span>
-	     
     </div>
 	  <div>
                   <span class="venue">IUI</span> /
