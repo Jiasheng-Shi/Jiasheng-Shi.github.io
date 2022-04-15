@@ -49,7 +49,7 @@ nav: true
 	
 <hr>
 	  
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:75px;" alt="spotlight_vcnet" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
