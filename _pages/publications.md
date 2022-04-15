@@ -44,12 +44,27 @@ nav: true
 	     
     </div>
 	  <div>
-                  <span class="venue">Visual Informatics</span> /
+                  <span class="venue">IUI</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
 	  </div>
   </div>	  
 	
-	
+<br>
+	  
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Chaoli Wang</span>
+	     
+    </div>
+	  <div>
+                  <span class="venue">Visual Informatics</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">Paper</a></span>
+	  </div>
+  </div>
 
 <br> <b> 2019 </b>
   
