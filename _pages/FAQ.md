@@ -75,7 +75,7 @@ nav: true
   <ul>
 <li><p><b>What do you do to facilitate students taking time off (e.g., do you proactively encourage people to take vacation after major deadlines)?</b></p>
 </li>
-<li><p>When a student finishes a project (e.g., submitting a paper), I proactively encourage them to take one or two weeks off.</p>
+<li><p>When a student finishes a project (e.g., submitting a paper), I proactively encourage him/her to take one or two weeks off.</p>
 </li>
 </ul>
   
