@@ -19,7 +19,6 @@ nav: true
     <div class="authors">
 	    <span class="author">Chaoli Wang</span>,
 	    <span class="author"><b>Jun Han</b></span>
-	     
     </div>
     <div>
                   <span class="venue">IEEE TVCG</span> /
@@ -57,7 +56,6 @@ nav: true
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Chaoli Wang</span>
-	     
     </div>
 	  <div>
                   <span class="venue">Visual Informatics</span> /
