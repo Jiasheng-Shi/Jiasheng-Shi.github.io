@@ -64,7 +64,7 @@ nav: true
                   <span class="venue">Visual Informatics</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/VCNet.pdf">Paper</a></span>
 	  </div>
-	  <div>
+	  </div>
   </div>
 	  
   <br>
