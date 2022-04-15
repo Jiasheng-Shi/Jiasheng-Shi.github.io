@@ -31,7 +31,7 @@ nav: true
 <li><p></p>
 </li>
 </ul>
-  
+ 
 <h3> Research Expectations </h3>
 <ul>
 <li><p><b>Describe your students' primary area(s) of responsibility and expectations (e.g., reading peer-reviewed literature, in-lab working hours, etc.).</b></p>
@@ -62,5 +62,21 @@ nav: true
 </li>
 </ul>
   
+  <h3> Time Away from Campus </h3>  
+ 
+  <ul>
+<li><p><b>Are there specific standard times that students in your group generally take vacation?</b></p>
+</li>
+<li><p></p>
+</li>
+</ul>
+  
+ 
+  <ul>
+<li><p><b>What do you do to facilitate students taking time off (e.g., do you proactively encourage people to take vacation after major deadlines)?</b></p>
+</li>
+<li><p>When a student finished a project (e.g., submitting a paper), I proactively encourage them to take one or two weeks off.</p>
+</li>
+</ul>
   
 </div>
