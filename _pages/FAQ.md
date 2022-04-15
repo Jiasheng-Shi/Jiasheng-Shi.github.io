@@ -25,7 +25,7 @@ nav: true
 </ul>
   
     
-   <ul>
+<ul>
 <li><p><b>How often do you plan to meet with students one-on-one (be as specific as possible, it's okay to describe multiple styles that may vary with student needs)? Is an agenda required? How long are meetings?</b></p>
 </li>
 <li><p></p>
@@ -33,21 +33,21 @@ nav: true
 </ul>
   
 <h3> Research Expectations </h3>
-   <ul>
+<ul>
 <li><p><b>Describe your students' primary area(s) of responsibility and expectations (e.g., reading peer-reviewed literature, in-lab working hours, etc.).</b></p>
 </li>
 <li><p></p>
 </li>
 </ul>
   
-     <ul>
+<ul>
 <li><p><b>How do you decide authorship and/or authorship order?</b></p>
 </li>
 <li><p></p>
 </li>
 </ul>
   
-     <ul>
+<ul>
 <li><p><b>Do you have general expectations for graduation?</b></p>
 </li>
 <li><p></p>
@@ -55,7 +55,7 @@ nav: true
 </ul>
   
   
-       <ul>
+<ul>
 <li><p><b>Are you supportive of your students going on internships? If so, is there a time of year that is best? How many internships can they do?</b></p>
 </li>
 <li><p></p>
