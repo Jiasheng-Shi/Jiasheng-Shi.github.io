@@ -10,6 +10,7 @@ nav: true
   
 <b> 2022 </b> 
 
+	
 <div class="publications">	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
@@ -23,6 +24,25 @@ nav: true
     <div>
                   <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
+	
+<div class="publications">	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/publications/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">Chaoli Wang</span>
+    </div>
+    <div>
+                  <span class="venue">CGF (EuroVis 2022(</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
     </div>
   </div>
 	
@@ -64,6 +84,26 @@ nav: true
   </div>
 <hr>
 
+<div class="publications">	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-VFD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/publications/cg22-tsr.pdf">TSR-VFD: Generating Temporal Super-Resolution for Unsteady Vector Field Data</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">Chaoli Wang</span>
+    </div>
+    <div>
+                  <span class="venue">CGF (EuroVis 2022(</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/cg22-tsr.pdf">Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
+	
+	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/STNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
 	</div>
   <div class="text">
