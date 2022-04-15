@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD<br><a href="http://computationalimaging.org/">Computational Imaging Lab</a><br><a href="https://www.stanford.edu/">Stanford University</a> 
+description: Incoming Assistant Professor<br><a href="https://sds.cuhk.edu.cn/en/">School of Data Science</a><br><a href="https://cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a> 
 
 profile:
   align: right 
