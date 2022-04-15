@@ -142,6 +142,46 @@ nav: true
 
 <br> 
 <b> 2021 </b>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/HSSL.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_miccai21" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="miccai21" href="http://stevenhan1991.github.io/assets/pdf/MICCAI21.pdf">Hierarchical Self-Supervised Learning for Medical Image Segmentation Based on Multi-Domain Data Aggregation</a></div> 
+    <div class="authors">
+	    <span class="author">Hao Zheng</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Hongxiao Wang</span>,
+	    <span class="author">Lin Yang</span>,
+	    <span class="author">Zhuo Zhao</span>,
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">and Danny Z. Chen</span>
+    </div>
+	  <div>
+                  <span class="venue">MICCAI 2021</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/MICCAI21.pdf">Paper</a></span>
+	  </div>
+  </div>	  
+	
+<hr>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/CGA21.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_cga21" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="cga21" href="http://stevenhan1991.github.io/assets/pdf/CGA21.pdf">Reconstructing Unsteady Flow Data from Representative Streamlines via Diffusion and Deep Learning Based Denoising</a></div> 
+    <div class="authors">
+	    <span class="author">Pengfe Gu</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Danny Z. Chen</span>,
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">CGA</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CGA21.pdf">Paper</a></span>
+	  </div>
+  </div>	  
+	
+<hr>
+	
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
