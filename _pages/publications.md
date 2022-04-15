@@ -160,5 +160,27 @@ nav: true
 	  </div>
   </div>
 	<hr>
+
+<br> 
+<b> 2017 </b>
+  
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/ubiear.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_ubiear" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="ubiear" href="phttp://stevenhan1991.github.io/assets/pdf/UbiEar.pdf">UbiEar: Bringing Location-independent Sound Awareness to the Hard-of-hearing People with Smartphones</a></div> 
+    <div class="authors">
+	    <span class="author">Sicong Liu</span>,
+	    <span class="author">Zimu Zhou</span>,
+	    <span class="author">Junzhao Du</span>,
+	    <span class="author">Longfei Shangguan</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	     <span class="author">and Xin Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">ACM IMWUT (<span style="color:red">Distinguished Paper Award</span>)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/UbiEar.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>	
  
  </div>
