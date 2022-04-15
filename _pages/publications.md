@@ -31,7 +31,7 @@ nav: true
 <hr>
 	
 <div class="publications">	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
 </div>
   <div class="text">
     <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/publications/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
@@ -85,10 +85,10 @@ nav: true
 <hr>
 
 <div class="publications">	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-VFD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-VFD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_tsr-vfd" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/publications/cg22-tsr.pdf">TSR-VFD: Generating Temporal Super-Resolution for Unsteady Vector Field Data</a>
+    <div class="title"><a name="tsr-vfd" href="http://stevenhan1991.github.io/assets/publications/cg22-tsr.pdf">TSR-VFD: Generating Temporal Super-Resolution for Unsteady Vector Field Data</a>
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
