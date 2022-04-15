@@ -9,7 +9,7 @@ nav: true
 
 <div class="publications">
   
-<b> 2022 </b>
+<b> 2022 </b> 
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
@@ -30,6 +30,67 @@ nav: true
   </div>
 
 
+  <b> 2021 </b> 
   
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="shape2prog_iclr" href="papers/shape2prog_iclr.pdf">V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+      <span class="author">Hao Zheng</span>,
+      <span class="author">Yunhao Xing</span>,
+	     <span class="author">Danny Chen</span>,
+	     <span class="author">Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
+	  </div>
+	  <div>
+  </div>
+	  
+	  
+<b> 2020 </b> 
+  
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="shape2prog_iclr" href="papers/shape2prog_iclr.pdf">V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+      <span class="author">Hao Zheng</span>,
+      <span class="author">Yunhao Xing</span>,
+	     <span class="author">Danny Chen</span>,
+	     <span class="author">Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
+	  </div>
+	  <div>
+  </div>
+	  
+	  
+<b> 2019 </b> 
+  
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="shape2prog_iclr" href="papers/shape2prog_iclr.pdf">V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+      <span class="author">Hao Zheng</span>,
+      <span class="author">Yunhao Xing</span>,
+	     <span class="author">Danny Chen</span>,
+	     <span class="author">Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
+	  </div>
+	  <div>
+  </div>	  
+	  
   
 </div>
