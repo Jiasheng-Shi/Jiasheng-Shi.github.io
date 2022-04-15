@@ -11,7 +11,7 @@ nav: true
   
 <b> 2022 </b> 
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a></div> 
@@ -27,7 +27,7 @@ nav: true
 	  <div>
   </div>
 
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/publications/iui22-aqx.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
@@ -47,7 +47,7 @@ nav: true
 	  <div>
   </div>	  
 	  
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_vcnet" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
