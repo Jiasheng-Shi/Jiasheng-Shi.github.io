@@ -23,7 +23,7 @@ nav: true
 	     <span class="author">Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG</a></span> /
+                  <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
 	  </div>
 	  <div>
