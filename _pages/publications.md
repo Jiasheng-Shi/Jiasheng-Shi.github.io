@@ -29,6 +29,27 @@ nav: true
 	
 
 <br>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">AQX: Explaining Air Quality Forecast for Verifying Domain Knowledge using Feature Importance Visualization</a></div> 
+    <div class="authors">
+	    <span class="author">Reshika Palaniyappan Velumani</span>,
+	    <span class="author">Meng Xia</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">Alexis Lau</span>,
+	    <span class="author">Huaming Qu</span>
+	     
+    </div>
+	  <div>
+                  <span class="venue">Visual Informatics</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
+	  </div>
+  </div>	  
+	
+	
 
 <br> <b> 2019 </b>
   
