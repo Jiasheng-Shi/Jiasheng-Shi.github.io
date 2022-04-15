@@ -7,10 +7,10 @@ years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 nav: true
 ---
 
-<div class="publications">
   
 <b> 2022 </b> 
-	
+
+<div class="publications">	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
@@ -26,6 +26,7 @@ nav: true
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
     </div>
   </div>
+</div>
 
 <br>
 
