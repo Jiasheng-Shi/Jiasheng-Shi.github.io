@@ -24,7 +24,7 @@ nav: true
                   <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">Paper</a></span>
 	  </div>
-	  <div>
+	  </div>
   </div>
 
 	  <br>
@@ -46,7 +46,7 @@ nav: true
                   <span class="venue">Visual Informatics</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/iui22-aqx.pdf">Paper</a></span>
 	  </div>
-	  <div>
+	  </div>
   </div>	  
 
 <br>
@@ -84,7 +84,7 @@ nav: true
                   <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
 	  </div>
-	  <div>
+	  </div>
   </div>
 
 
