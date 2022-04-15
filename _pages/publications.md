@@ -18,7 +18,7 @@ nav: true
     <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/publications/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
     </div> 
     <div class="authors">
-	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">Chaoli Wang and</span>
 	    <span class="author"><b>Jun Han</b></span>
     </div>
     <div>
@@ -38,10 +38,10 @@ nav: true
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">Chaoli Wang</span>
+	    <span class="author">and Chaoli Wang</span>
     </div>
     <div>
-                  <span class="venue">CGF (EuroVis 2022(</span> /
+                  <span class="venue">CGF (EuroVis 2022)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
     </div>
   </div>
@@ -59,7 +59,7 @@ nav: true
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Chaoli Wang</span>,
 	    <span class="author">Alexis Lau</span>,
-	    <span class="author">Huaming Qu</span>
+	    <span class="author">and Huaming Qu</span>
     </div>
 	  <div>
                   <span class="venue">IUI</span> /
@@ -74,8 +74,8 @@ nav: true
   <div class="text">
     <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>,
-	    <span class="author">Chaoli Wang</span>
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
                   <span class="venue">Visual Informatics</span> /
@@ -92,7 +92,7 @@ nav: true
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">Chaoli Wang</span>
+	    <span class="author">and Chaoli Wang</span>
     </div>
     <div>
                   <span class="venue">CGF (EuroVis 2022(</span> /
@@ -112,10 +112,10 @@ nav: true
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Hao Zheng</span>,
 	     <span class="author">Danny Chen</span>,
-	    <span class="author">Chaoli Wang</span>
+	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG</span> /
+                  <span class="venue">IEEE TVCG (IEEE VIS 2021)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/vis21-stnet.pdf">Paper</a></span>
 	  </div>
   </div>
@@ -133,10 +133,10 @@ nav: true
       <span class="author">Hao Zheng</span>,
       <span class="author">Yunhao Xing</span>,
 	     <span class="author">Danny Chen</span>,
-	     <span class="author">Chaoli Wang</span>
+	     <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG</span> /
+                  <span class="venue">IEEE TVCG (IEEE 2020)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/publications/v2v.pfg">Paper</a></span>
 	  </div>
   </div>
