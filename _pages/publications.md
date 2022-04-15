@@ -95,7 +95,7 @@ nav: true
 	    <span class="author">and Chaoli Wang</span>
     </div>
     <div>
-                  <span class="venue">CGF (EuroVis 2022(</span> /
+                  <span class="venue">CG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/cg22-tsr.pdf">Paper</a></span>
     </div>
   </div>
