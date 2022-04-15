@@ -81,7 +81,8 @@ nav: true
   </div>
 	
 
-<br> <b> 2020 </b>
+<br> 
+<b> 2020 </b>
   
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/v2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_v2v" align="left">
 	</div>
