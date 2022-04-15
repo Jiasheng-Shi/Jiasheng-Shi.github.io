@@ -8,6 +8,8 @@ nav: true
 
 <div class="FAQ">
   
+<h3>Advisor Style</h3> 
+  
   <ul>
 <li><p><b>How would you describe your advising style? Does your approach vary over the course of a student's progress within their degree?</b></p>
 </li>
