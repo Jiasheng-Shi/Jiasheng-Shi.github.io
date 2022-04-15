@@ -2,11 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: David B. Lindell # the website title (if blank, full name will be used instead)
-first_name: David 
-middle_name: B.
-last_name: Lindell
-email: lindell@stanford.edu
+title: Jun Han # the website title (if blank, full name will be used instead)
+first_name: Jun
+last_name: Han
+email: jhan5@.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
@@ -34,11 +33,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: davelindell # your GitHub user name
-twitter_username: davelindell # your Twitter handle
-linkedin_username: davelindell # your LinkedIn user name
-scholar_userid: _m-BTtAAAAAJ # your Google Scholar ID
-orcid_id: # 0000-0002-6999-3958 # your ORCID ID
+github_username: stevenhanjun1991 # your GitHub user name
+#twitter_username: davelindell # your Twitter handle
+#linkedin_username: davelindell # your LinkedIn user name
+scholar_userid: 8i3v-a8AAAAJ&hl=en # your Google Scholar ID
+orcid_id: # 0000-0002-7286-062X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
