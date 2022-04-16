@@ -75,7 +75,7 @@ nav: true
   <div class="text">
     <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/pdf/pvis22-s2v.pdf">Scalar2Vec: Translating Scalar Fields to Vector Fields via Deep Learning</a></div> 
     <div class="authors">
-	    <span class="author">Pengfe Gu</span>,
+	    <span class="author">Pengfei Gu</span>,
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Danny Z. Chen</span>,
 	    <span class="author">and Chaoli Wang</span>
@@ -169,7 +169,7 @@ nav: true
   <div class="text">
     <div class="title"><a name="cga21" href="http://stevenhan1991.github.io/assets/pdf/CGA21.pdf">Reconstructing Unsteady Flow Data from Representative Streamlines via Diffusion and Deep Learning Based Denoising</a></div> 
     <div class="authors">
-	    <span class="author">Pengfe Gu</span>,
+	    <span class="author">Pengfei Gu</span>,
 	    <span class="author"><b>Jun Han</b></span>,
 	    <span class="author">Danny Z. Chen</span>,
 	    <span class="author">and Chaoli Wang</span>
