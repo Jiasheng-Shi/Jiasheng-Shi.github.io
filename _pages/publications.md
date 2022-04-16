@@ -230,7 +230,7 @@ nav: true
 	     <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG (IEEE VIS 2020)</span> /
+                  <span class="venue">IEEE TVCG </span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">Paper</a></span>
 	  </div>
   </div>
