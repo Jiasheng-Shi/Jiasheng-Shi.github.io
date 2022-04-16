@@ -217,6 +217,25 @@ nav: true
   </div>
 	<hr>
 
+	
+<br> 	
+<b> 2020 </b>
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/FlowNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_flownet" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="flownet" href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">FlowNet: A Deep Learning Framework for Clustering and Selection of Streamlines and Stream Surfaces</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+      <span class="author">Jun Tao</span>,
+	     <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2020)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>	
+	
 <br> 	
 <b> 2017 </b>
   
