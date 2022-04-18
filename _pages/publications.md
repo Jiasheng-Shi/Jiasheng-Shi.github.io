@@ -241,7 +241,7 @@ nav: true
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/UACNN.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_lins" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="lins" href="http://stevenhan1991.github.io/assets/pdf/UACNN.pdf">PQA-CNN: Towards Perceptual Quality Assured Single-Image Super-Resolution in Remote Sensing</a></div> 
+    <div class="title"><a name="lins" href="http://stevenhan1991.github.io/assets/pdf/PQA-CNN.pdf">PQA-CNN: Towards Perceptual Quality Assured Single-Image Super-Resolution in Remote Sensing</a></div> 
     <div class="authors">
 	    <span class="author">Yang Zhang</span>,
 	    <span class="author">Xiangyu Dong</span>,
@@ -253,11 +253,29 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">IEEE/ACM IWQoS 2020 </span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/UACNN.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/PQA-CNN.pdf">Paper</a></span>
 	  </div>
   </div>
 	<hr>
 	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TransRes.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_transres" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="transland" href="http://stevenhan1991.github.io/assets/pdf/TransRes.pdf">TransRes: A Deep Transfer Learning Approach to Migratable Image Super-Resolution in Remote Urban Sensing</a></div> 
+    <div class="authors">
+	    <span class="author">Yang Zhang</span>,
+	    <span class="author">Ruohan Zong</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Daniel Zhang</span>,
+	    <span class="author">Md Tahmid Rashid</span>,
+	    <span class="author">and Dong Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE SECON 2020 </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TransRes.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
 	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/LINS.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_lins" align="left">
 	</div>
@@ -339,6 +357,28 @@ nav: true
 	  <div>
                   <span class="venue">AAAI 2019</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/AAAI19.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TransLand.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_transland" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="transland" href="http://stevenhan1991.github.io/assets/pdf/TransLand.pdf">TransLand: An Adversarial Transfer Learning Approach for Migratable Urban Land Usage Classification using Remote Sensing</a></div> 
+    <div class="authors">
+	    <span class="author">Yang Zhang</span>,
+	    <span class="author">Ruohan Zong</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	     <span class="author">Hao Zheng</span>,
+	    <span class="author">Qiuwen Lou</span>,
+	    <span class="author">Daniel Zhang</span>,
+	    <span class="author">and Dong Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE Big Data 2019 </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TransLand.pdf">Paper</a></span>
 	  </div>
   </div>
 	<hr>
