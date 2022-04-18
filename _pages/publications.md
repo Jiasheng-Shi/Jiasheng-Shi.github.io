@@ -80,7 +80,7 @@ nav: true
 	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">PacificVis 2022</span> /
+                  <span class="venue">IEEE PacificVis 2022</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/pvis22-s2v.pdf">Paper</a></span>
 	  </div>
   </div>	  
