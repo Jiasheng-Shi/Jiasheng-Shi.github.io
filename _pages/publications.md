@@ -212,7 +212,7 @@ nav: true
 	     <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG (IEEE VIS 2020)</span> /
+                  <span class="venue">IEEE TVCG (IEEE SciVis 2020)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/v2v.pdf">Paper</a></span>
 	  </div>
   </div>
@@ -328,7 +328,7 @@ nav: true
 	     <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE TVCG (IEEE VIS 2019) </span> /
+                  <span class="venue">IEEE TVCG (IEEE SciVis 2019) </span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TSR-TVD.pdf">Paper</a></span>
 	  </div>
   </div>
