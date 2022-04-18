@@ -30,6 +30,24 @@ nav: true
 
 <hr>
 	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+    <div>
+                  <span class="venue">CGF (EuroVis 2022)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
+	
 	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
