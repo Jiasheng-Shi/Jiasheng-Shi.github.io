@@ -237,7 +237,49 @@ nav: true
   </div>
 	<hr>	
 
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_pvis20" align="left">
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/UACNN.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_lins" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="lins" href="http://stevenhan1991.github.io/assets/pdf/UACNN.pdf">PQA-CNN: Towards Perceptual Quality Assured Single-Image Super-Resolution in Remote Sensing</a></div> 
+    <div class="authors">
+	    <span class="author">Yang Zhang</span>,
+	    <span class="author">Xiangyu Dong</span>,
+	     <span class="author">Md Tahmid Rashid</span>,
+	    <span class="author">Lanyu Shang</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Daniel Zhang</span>,
+	    <span class="author">and Dong Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE/ACM IWQoS 2020 </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/UACNN.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/LINS.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_lins" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="lins" href="http://stevenhan1991.github.io/assets/pdf/LINS.pdf">LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation</a></div> 
+    <div class="authors">
+	    <span class="author">Chao Qin</span>,
+	    <span class="author">Haoyang Ye</span>,
+	     <span class="author">Christian E. Pranata</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Shuyang Zhang</span>,
+	    <span class="author">and Ming Liu</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE ICRA 2020 </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/LINS.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>	
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:100px;height:200px;" alt="spotlight_pvis20" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="pvis20" href="http://stevenhan1991.github.io/assets/pdf/PVIS20.pdf">SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization</a></div> 
@@ -253,7 +295,7 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">IEEE PacificVis 2020 </span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TSR-TVD.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/PVIS20.pdf">Paper</a></span>
 	  </div>
   </div>
 	<hr>
