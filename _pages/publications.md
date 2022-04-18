@@ -108,7 +108,7 @@ nav: true
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-VFD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_tsr-vfd" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="tsr-vfd" href="http://stevenhan1991.github.io/assets/publications/cg22-tsr.pdf">TSR-VFD: Generating Temporal Super-Resolution for Unsteady Vector Field Data</a>
+    <div class="title"><a name="tsr-vfd" href="http://stevenhan1991.github.io/assets/publications/cg_tsr.pdf">TSR-VFD: Generating Temporal Super-Resolution for Unsteady Vector Field Data</a>
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
@@ -116,7 +116,7 @@ nav: true
     </div>
     <div>
                   <span class="venue">CG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/cg22-tsr.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/cg_tsr.pdf">Paper</a></span>
     </div>
   </div>
 	
