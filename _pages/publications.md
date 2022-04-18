@@ -62,7 +62,7 @@ nav: true
 	    <span class="author">and Huaming Qu</span>
     </div>
 	  <div>
-                  <span class="venue">IUI</span> /
+                  <span class="venue">ACM IUI 2022</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
 	  </div>
   </div>	  
