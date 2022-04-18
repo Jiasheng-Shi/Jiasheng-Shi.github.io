@@ -237,7 +237,46 @@ nav: true
   </div>
 	<hr>	
 
-<br> 	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_pvis20" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="pvis20" href="http://stevenhan1991.github.io/assets/pdf/PVIS20.pdf">SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization</a></div> 
+    <div class="authors">
+	    <span class="author">Li Guo</span>,
+	    <span class="author">Shaojie Ye</span>,
+	    <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Hao Zheng</span>,
+	    <span class="author">Hao Gao</span>,
+	    <span class="author">Danny Z. Chen</span>,
+	    <span class="author">Jian-Xun Wang</span>,
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE PacificVis 2020 </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TSR-TVD.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+	
+
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/TSR-TVD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_tsr-tvd" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="tsr-tvd" href="http://stevenhan1991.github.io/assets/pdf/TSR-TVD.pdf">TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+	     <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE TVCG (IEEE VIS 2019) </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/TSR-TVD.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>	
+	
+	
+	
+<br> 
 <b> 2019 </b>
 	
 	
@@ -256,7 +295,7 @@ nav: true
 	    <span class="author">and Danny Z. Chen</span>
     </div>
 	  <div>
-                  <span class="venue">AAAI 19</span> /
+                  <span class="venue">AAAI 2019</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/AAAI19.pdf">Paper</a></span>
 	  </div>
   </div>
@@ -274,7 +313,7 @@ nav: true
 	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">IEEE VIS 19 (Short Paper)</span> /
+                  <span class="venue">IEEE VIS 2019 (Short Paper)</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VIS19.pdf">Paper</a></span>
 	  </div>
   </div>
@@ -297,7 +336,7 @@ nav: true
 	    <span class="author">and Danny Z. Chen</span>
     </div>
 	  <div>
-                  <span class="venue">MICCAI 19</span> /
+                  <span class="venue">MICCAI 2019</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/MICCAI19.pdf">Paper</a></span>
 	  </div>
   </div>
