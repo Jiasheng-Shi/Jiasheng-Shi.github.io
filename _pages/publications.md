@@ -50,24 +50,6 @@ nav: true
 
 <hr>
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
-</div>
-  <div class="text">
-    <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
-    </div> 
-    <div class="authors">
-	    <span class="author">Chaoli Wang and</span>
-	    <span class="author"><b>Jun Han</b></span>
-    </div>
-    <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
-    </div>
-  </div>
-	
-
-<hr>
-	
 	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
@@ -259,13 +241,11 @@ nav: true
 <b> 2019 </b>
 	
 	
-	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MICCAI19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_miccai19" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AAAI19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aaai19" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="cga19" href="http://stevenhan1991.github.io/assets/pdf/MICCAI19.pdf">HFA-Net: 3D Cardiovascular Image Segmentation with Asymmetrical Pooling and Content-Aware Fusion</a></div> 
+    <div class="title"><a name="aaai19" href="http://stevenhan1991.github.io/assets/pdf/AAAI19.pdf">HFA-Net: 3D Cardiovascular Image Segmentation with Asymmetrical Pooling and Content-Aware Fusion</a></div> 
     <div class="authors">
-	   
 	    <span class="author">Hao Zheng</span>,
 	    <span class="author">Lin Yang</span>,
 	     <span class="author"><b>Jun Han</b></span>,
@@ -274,11 +254,51 @@ nav: true
 	    <span class="author">Zhuo Zhao</span>,
 	    <span class="author">Chaoli Wang</span>,
 	    <span class="author">and Danny Z. Chen</span>
-	    
     </div>
 	  <div>
-                  <span class="venue">MICCAI </span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CG&A19.pdf">Paper</a></span>
+                  <span class="venue">AAAI 19</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/AAAI19.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VIS19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aaai19" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="aaai19" href="http://stevenhan1991.github.io/assets/pdf/VIS19.pdf">A Deep Learning Approach to Selecting Representative Time Steps for Time-Varying Multivariate Data</a></div> 
+    <div class="authors">
+	    <span class="author">William P. Porter</span>,
+	    <span class="author">Yunhao Xing</span>,
+	    <span class="author">Blaise R. von Ohlen</span>,
+	     <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE VIS 19 (Short Paper)</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VIS19.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MICCAI19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_miccai19" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="miccai19" href="http://stevenhan1991.github.io/assets/pdf/MICCAI19.pdf">Biomedical Image Segmentation via Representative Annotation</a></div> 
+    <div class="authors">
+	    <span class="author">Hao Zheng</span>,
+	    <span class="author">Lin Yang</span>,
+	    <span class="author">Jianxu Chen</span>,
+	     <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Yizhe Zhang</span>,
+	    <span class="author">Peixian Liang</span>,
+	    <span class="author">Zhuo Zhao</span>,
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">and Danny Z. Chen</span>
+    </div>
+	  <div>
+                  <span class="venue">MICCAI 19</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/MICCAI19.pdf">Paper</a></span>
 	  </div>
   </div>
 	<hr>
@@ -290,7 +310,7 @@ nav: true
     <div class="title"><a name="cga19" href="http://stevenhan1991.github.io/assets/pdf/CG&A19.pdf">Flow Field Reduction via Reconstructing Vector Data from 3D Streamlines Using Deep Learning</a></div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>,
-      <span class="author">Jun Tao</span>,
+	    <span class="author">Jun Tao</span>,
 	    <span class="author">Hao Zheng</span>,
 	    <span class="author">Hanqi Guo</span>,
 	    <span class="author">Danny Z. Chen</span>,
