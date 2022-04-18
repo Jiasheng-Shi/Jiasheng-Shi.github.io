@@ -31,24 +31,43 @@ nav: true
 <hr>
 	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SSR-TVD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_ssr-tvd" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
+    <div class="title"><a name="SSR-TVD" href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization
+</a>
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
 	    <span class="author">and Chaoli Wang</span>
     </div>
     <div>
-                  <span class="venue">CGF (EuroVis 2022)</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">Paper</a></span>
     </div>
   </div>
 	
 
 <hr>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
+    </div> 
+    <div class="authors">
+	    <span class="author">Chaoli Wang and</span>
+	    <span class="author"><b>Jun Han</b></span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
+    </div>
+  </div>
+	
 
+<hr>
+	
 	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
@@ -232,6 +251,54 @@ nav: true
 	  <div>
                   <span class="venue">IEEE TVCG </span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>	
+
+<br> 	
+<b> 2019 </b>
+	
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/MICCAI19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_miccai19" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="cga19" href="http://stevenhan1991.github.io/assets/pdf/MICCAI19.pdf">HFA-Net: 3D Cardiovascular Image Segmentation with Asymmetrical Pooling and Content-Aware Fusion</a></div> 
+    <div class="authors">
+	   
+	    <span class="author">Hao Zheng</span>,
+	    <span class="author">Lin Yang</span>,
+	     <span class="author"><b>Jun Han</b></span>,
+	    <span class="author">Yizhe Zhang</span>,
+	    <span class="author">Peixian Liang</span>,
+	    <span class="author">Zhuo Zhao</span>,
+	    <span class="author">Chaoli Wang</span>,
+	    <span class="author">and Danny Z. Chen</span>
+	    
+    </div>
+	  <div>
+                  <span class="venue">MICCAI </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CG&A19.pdf">Paper</a></span>
+	  </div>
+  </div>
+	<hr>
+	
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/CG&A19.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_cga19" align="left">
+	</div>
+  <div class="text">
+    <div class="title"><a name="cga19" href="http://stevenhan1991.github.io/assets/pdf/CG&A19.pdf">Flow Field Reduction via Reconstructing Vector Data from 3D Streamlines Using Deep Learning</a></div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>,
+      <span class="author">Jun Tao</span>,
+	    <span class="author">Hao Zheng</span>,
+	    <span class="author">Hanqi Guo</span>,
+	    <span class="author">Danny Z. Chen</span>,
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+	  <div>
+                  <span class="venue">IEEE CG&A </span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CG&A19.pdf">Paper</a></span>
 	  </div>
   </div>
 	<hr>	
