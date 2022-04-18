@@ -279,7 +279,7 @@ nav: true
 	<hr>	
 	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:200px;height:50px;" alt="spotlight_pvis20" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_pvis20" align="left">
 	</div>
   <div class="text">
     <div class="title"><a name="pvis20" href="http://stevenhan1991.github.io/assets/pdf/PVIS20.pdf">SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization</a></div> 
