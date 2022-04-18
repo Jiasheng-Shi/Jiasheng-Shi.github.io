@@ -176,7 +176,7 @@ nav: true
 	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
-                  <span class="venue">CGA</span> /
+                  <span class="venue">IEEE CG&A</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CGA21.pdf">Paper</a></span>
 	  </div>
   </div>	  
