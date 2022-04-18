@@ -31,26 +31,6 @@ nav: true
 <hr>
 	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SSR-TVD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_ssr-tvd" align="left">
-</div>
-  <div class="text">
-    <div class="title"><a name="SSR-TVD" href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization
-</a>
-    </div> 
-    <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Chaoli Wang</span>
-    </div>
-    <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">Paper</a></span>
-    </div>
-  </div>
-	
-
-<hr>
-	
-	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
   <div class="text">
@@ -221,6 +201,27 @@ nav: true
 	
 <br> 	
 <b> 2020 </b>
+	
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SSR-TVD.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_ssr-tvd" align="left">
+</div>
+  <div class="text">
+    <div class="title"><a name="SSR-TVD" href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization
+</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
+	
+	
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/FlowNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_flownet" align="left">
 	</div>
   <div class="text">
