@@ -83,7 +83,7 @@ nav: true
 <ul>
 <li><p><b>Are you supportive of your students going on internships?</b></p>
 </li>
-<li><p>Yes, I definitely supprt students to find interships. Internships are a great opportunity to meet and collaborate with new people, grow your network, and gain a new perspective on research or engineering. I think summer is the a good time for internships. I don’t have a limit on the number of internships. However, I expect students to start their internship on the second or third summer of their PhD. Before the internship begins, I hope students can find their research diection and topic first. 
+<li><p>Yes, I definitely supprt students to have interships. Internships are a great opportunity to meet and collaborate with new people, grow your network, and gain a new perspective on research or engineering. I think summer is the a good time for internships. I don’t have a limit on the number of internships. However, I expect students to start their internship on the second or third summer of their PhD. Before the internship begins, I hope students can find their research diection and topic first. 
 </p>
 </li>
 </ul>
