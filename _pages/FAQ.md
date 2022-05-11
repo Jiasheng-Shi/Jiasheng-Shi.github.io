@@ -66,7 +66,7 @@ nav: true
  <ul>
 <li><p><b>How far in advance of a deadline should a student expect to provide written work for feedback, such as publication drafts?</b></p>
 </li>
-<li><p> For paper deadline I expect to set a strict “internal deadline” roughly one month before the official deadline. Students should have a complete draft of the paper ready by this internal deadline if they plan to submit the paper. 
+<li><p> For paper deadline I expect to set a strict “internal deadline” roughly three or two weeks before the official deadline. Students should have a complete draft of the paper ready by this internal deadline if they plan to submit the paper. 
  </p>
 </li>
 </ul>
