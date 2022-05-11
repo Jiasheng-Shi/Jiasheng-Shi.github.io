@@ -68,14 +68,6 @@ nav: true
 </li>
 </ul>
   
-  
-<ul>
-<li><p><b>Are you supportive of your students going on internships? If so, is there a time of year that is best? How many internships can they do?</b></p>
-</li>
-<li><p></p>
-</li>
-</ul>
-  
 <h3> Internship </h3>
 <ul>
 <li><p><b>Are you supportive of your students going on internships?</b></p>
