@@ -8,6 +8,17 @@ nav: true
 
 <div class="FAQ">
   
+<h3>Recruiting Requirement </h3> 
+  
+  <ul>
+<li><p><b>What is the standard for you to recruit Ph.D. students?</b></p>
+</li>
+<li><p> Generally, I expect the students to be self-motivated, open to new techniques, and enjoyable to research. I don't have specific requirements on programming and background. However, there will be a bonus for those students who are familiar with C++, CUDA, OpenGL, and deep learning.
+ </p>
+</li>
+</ul>
+  
+  
 <h3>Advisor Style</h3> 
   
   <ul>
@@ -39,7 +50,7 @@ nav: true
 <ul>
 <li><p><b>Describe your students' primary area(s) of responsibility and expectations (e.g., reading peer-reviewed literature, in-lab working hours, etc.).</b></p>
 </li>
-<li><p>I expect students to have at least one leading research project at all times. Students are responsible for idea formulation (only for senior students), implementation, and experimentation for their project, as well as writing papers. I don’t require students to do their work in any particular place or at any particular time; I also don’t set hours that I expect students to be in the lab. Students are free ro choose the working place and time as longas they can make satisfactory progres. I do expect students to be responsive by email (responses within two or three hours) during weekdays, especially from roughly 10am to 5pm but I don't encourage students working on weekends unless the deadline is approaching. I don’t expect students to respond to me outside of those times unless there is something urgent or time-sensitive.
+<li><p>I expect students to have at least one leading research project at all times. Students are responsible for idea formulation (only for senior students), implementation, and experimentation for their project, as well as writing papers. I don’t require students to do their work in any particular place or at any particular time; I also don’t set hours that I expect students to be in the lab. Students are free to choose the working place and time as longas they can make satisfactory progres. I do expect students to be responsive by email (responses within two or three hours) during weekdays, especially from roughly 10am to 5pm but I don't encourage students working on weekends unless the deadline is approaching. I don’t expect students to respond to me outside of those times unless there is something urgent or time-sensitive.
 </p>
 </li>
 </ul> 
