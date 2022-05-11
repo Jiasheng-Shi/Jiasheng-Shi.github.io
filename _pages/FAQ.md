@@ -42,7 +42,7 @@ nav: true
 <li><p>I expect students to have at least one leading research project at all times. Students are responsible for idea formulation (only for senior students), implementation, and experimentation for their project, as well as writing papers. I don’t require students to do their work in any particular place or at any particular time; I also don’t set hours that I expect students to be in the lab. Students are free ro choose the working place and time as longas they can make satisfactory progres. I do expect students to be responsive by email (responses within two or three hours) during weekdays, especially from roughly 10am to 5pm but I don't encourage students working on weekends unless the deadline is approaching. I don’t expect students to respond to me outside of those times unless there is something urgent or time-sensitive.
 </p>
 </li>
-</ul>
+</ul> 
   
 <ul>
 <li><p><b>How do you decide authorship and/or authorship order?</b></p>
@@ -51,6 +51,15 @@ nav: true
  </p>
 </li>
 </ul>
+  
+ <ul>
+<li><p><b>How far in advance of a deadline should a student expect to provide written work for feedback, such as publication drafts?</b></p>
+</li>
+<li><p> For paper deadline I expect to set a strict “internal deadline” roughly one month before the official deadline. Students should have a complete draft of the paper ready by this internal deadline if they plan to submit the paper. 
+ </p>
+</li>
+</ul>
+  
   
 <ul>
 <li><p><b>Do you have general expectations for graduation?</b></p>
@@ -66,6 +75,16 @@ nav: true
 <li><p></p>
 </li>
 </ul>
+  
+<h3> Internship </h3>
+<ul>
+<li><p><b>Are you supportive of your students going on internships?</b></p>
+</li>
+<li><p>Yes, I definitely supprt students to find interships. Internships are a great opportunity to meet and collaborate with new people, grow your network, and gain a new perspective on research or engineering. I think summer is the a good time for internships. I don’t have a limit on the number of internships. However, I expect students to start their internship on the second or third summer of their PhD. Before the internship begins, I hope students can find their research diection and topic first. 
+</p>
+</li>
+</ul>
+  
   
   <h3> Time Away from Campus </h3>  
  
