@@ -11,9 +11,9 @@ nav: true
 <h3>Recruiting Requirement </h3> 
   
   <ul>
-<li><p><b>What is your standard for recruiting students?</b></p>
+<li><p><b>What is your criteria for recruiting students?</b></p>
 </li>
-<li><p> Generally, I expect the students to be self-motivated, open to new techniques, and enjoyable to research. I don't have specific requirements on programming and background. However, there will be a bonus for those students who are familiar with C++, CUDA, OpenGL, and deep learning.
+<li><p> Generally, I expect the students to be self-motivated, open to new techniques, enjoyable to research, and working hard. I don't have specific requirements on programming and background. However, there will be a bonus for those students who are familiar with C++, CUDA, OpenGL, and deep learning.
  </p>
 </li>
 </ul>
