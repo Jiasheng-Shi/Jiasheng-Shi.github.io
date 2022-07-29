@@ -18,5 +18,5 @@ I received Ph.D. in Computer Science and Engineering from the [University of Not
 
 Students interested in joining my lab starting in Spring or Fall 2023 should apply to the [School of Data Science](https://sds.cuhk.edu.cn/en/phd-programmes-CSE).
 
-We also have several openings for research assistant. If you are interested in visualization + AI and self-motivated, feel free to send me your CV and transcript by email.
+We also have several openings for research assistant. If you are self-motivated and interested in visualization and deep learning, feel free to send me your CV and transcript by email.
 {: style="background-color: #ffffcc; float: left;"}
