@@ -8,7 +8,7 @@ nav: true
 
 <div class="Teaching">
 
- <h3> Undergraduate Course </h3>
+ <b> Undergraduate Course </b>
 
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/courses/HCI.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_hci" align="left">
 </div>
@@ -21,7 +21,7 @@ nav: true
    <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Materials</a></span>
    </div>
-
+   </hr>
    
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/courses/Visual Analytics.png" style="border:1px solid black width:200px;height:100px;" alt="spotlight_hci" align="left">
 </div>
@@ -36,9 +36,9 @@ nav: true
    </div>
 
 
-
+   </hr>
  
- <h3> Graduate Course</h3>
+ <b> Graduate Course</b>
 
    <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/courses/Scientific Visualization.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_hci" align="left">
 </div>
