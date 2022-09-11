@@ -16,6 +16,10 @@ nav: true
   <div class="text">
     <div class="title"><a name="HCI"><b>CSC4130 Introduction to Human-Computer Interaction</b></a>
     </div> 
+   <div>
+    <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Syllabus</a></span>
+    <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Materials</a></span>
+   </div>
    </li>
  <li><p><b>CSC4130 Introduction to Human-Computer Interaction</b></p></li>
   <li><p><b>DDA2003 Visual Analytics </b></p>
