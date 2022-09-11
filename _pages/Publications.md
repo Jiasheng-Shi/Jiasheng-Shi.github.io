@@ -17,11 +17,13 @@ nav: true
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">Chaoli Wang and</span>
+	    <span class="author">and Chaoli Wang</span>
     </div>
     <div>
                   <span class="venue">IEEE TVCG</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet.pdf">Paper</a></span>
+	          <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet-Appendix.pdf">Appendix</a></span>
+	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet.wmv">Video</a></span>
     </div>
   </div>
 	
