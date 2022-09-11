@@ -36,7 +36,8 @@ nav: true
    </div>
 
 
-   </hr>
+  </hr>
+ </br>
  
  <b> Graduate Course</b>
 
