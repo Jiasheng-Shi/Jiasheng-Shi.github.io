@@ -13,7 +13,7 @@ nav: true
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/courses/HCI.jpeg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_hci" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf"><b>CSC4130 Introduction to Human-Computer Interaction</b></a>
+    <div class="title"><a name="HCI"><b>CSC4130 Introduction to Human-Computer Interaction</b></a>
     </div> 
    
  <li><p><b>CSC4130 Introduction to Human-Computer Interaction</b></p></li>
