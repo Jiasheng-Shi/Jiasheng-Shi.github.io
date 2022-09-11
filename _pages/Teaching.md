@@ -36,8 +36,8 @@ nav: true
    <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/">Course Materials</a></span>
    </div>
-   </li>
-   
+</li>
+
  </ul>
  
  <h3> Graduate Course</h3>
@@ -55,5 +55,6 @@ nav: true
    </div>
    </li> 
  </ul>
+ 
 </div>
 
