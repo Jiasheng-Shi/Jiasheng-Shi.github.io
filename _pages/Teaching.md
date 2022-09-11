@@ -21,7 +21,8 @@ nav: true
    <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Materials</a></span>
    </div>
-   </hr>
+   
+   <hr>
    
   <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/courses/Visual Analytics.png" style="border:1px solid black width:200px;height:100px;" alt="spotlight_hci" align="left">
 </div>
@@ -36,8 +37,8 @@ nav: true
    </div>
 
 
-  </hr>
- </br>
+  <hr>
+ <br>
  
  <b> Graduate Course</b>
 
