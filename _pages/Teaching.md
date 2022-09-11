@@ -7,14 +7,15 @@ nav: true
 ---
 
 <div class="Teaching">
- 
- <h2> Undergraduate Course </h2>
-<h3>CSC4130 Introduction to Human-Computer Interaction</h3> 
+
+ <h3> Undergraduate Course </h3>
+ <ul>
+ <li><p><b>CSC4130 Introduction to Human-Computer Interaction</b></p></li>
+  <li><p><b>DDA2003 Visual Analytics </b></p>
+</li>
   
-<h3>DDA2003 Visual Analytics</h3>  
-  
- <h2> Graduate Course</h2>
- <h3>MDS6112 Data Visualization</h3>  
+ <h3> Graduate Course</h3>
+ <li><p><b>MDS6112 Data Visualization </b></p></li> 
  
 </div>
 
