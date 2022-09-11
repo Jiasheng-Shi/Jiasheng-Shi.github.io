@@ -10,7 +10,7 @@ nav: true
   
 <b> 2022 </b> 
 
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/Cylinder-T.gif" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/Cylinder-A.gif" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
     <div class="title"><a name="CoordNet" href="http://stevenhan1991.github.io/assets/pdf/CoordNet.pdf">CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network</a>
@@ -211,7 +211,8 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">ASSE 2021</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/asee21-volumevisual.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/asee21-volumevisual.pdf">Paper</a></span> /
+		  <span class="tag"><a href="https://sites.nd.edu/chaoli-wang/projects/visvisual/">Demo</a></span> /
 	  </div>
   </div>
 	<hr>
@@ -270,7 +271,8 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">IEEE TVCG </span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/tvcg20-flownet.pdf">Paper</a></span> /
+		   <span class="tag"><a href="http://stevenhan1991.github.io/assets/video/tvcg20-flownet.wmv">Video</a></span>
 	  </div>
   </div>
 	<hr>	
@@ -338,7 +340,7 @@ nav: true
 <div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/PVIS20.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_pvis20" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="pvis20" href="http://stevenhan1991.github.io/assets/pdf/PVIS20.pdf">SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization</a></div> 
+    <div class="title"><a name="pvis20" href="http://stevenhan1991.github.io/assets/pdf/pvis20-ssr.pdf">SSR-VFD: Spatial Super-Resolution for Vector Field Data Analysis and Visualization</a></div> 
     <div class="authors">
 	    <span class="author">Li Guo</span>,
 	    <span class="author">Shaojie Ye</span>,
