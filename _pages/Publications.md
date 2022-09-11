@@ -212,7 +212,7 @@ nav: true
 	  <div>
                   <span class="venue">ASSE 2021</span> /
                   <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/asee21-volumevisual.pdf">Paper</a></span> /
-		  <span class="tag"><a href="https://sites.nd.edu/chaoli-wang/projects/visvisual/">Demo</a></span> /
+		  <span class="tag"><a href="https://www3.nd.edu/~cwang11/volumevisual/">Demo</a></span> 
 	  </div>
   </div>
 	<hr>
