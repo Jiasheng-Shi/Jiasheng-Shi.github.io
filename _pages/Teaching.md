@@ -18,6 +18,8 @@ nav: true
     </div> 
    <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Syllabus</a></span>
+   </div>
+   <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Course Materials</a></span>
    </div>
    </li>
