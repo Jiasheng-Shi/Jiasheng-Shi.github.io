@@ -53,6 +53,7 @@ nav: true
    <div>
     <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/">Course Materials</a></span>
    </div>
+   <hr>
  
 </div>
 
