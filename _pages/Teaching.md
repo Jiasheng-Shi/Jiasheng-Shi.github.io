@@ -20,7 +20,6 @@ nav: true
     <div class="title"><a name="VS" href="https://stevenhan1991.github.io/DDA2003/index.html"><b>DDA2003 Visual Analytics</b></a>
     </div> 
   <hr>
- <br>
  
  <b> Graduate Course</b>
 
