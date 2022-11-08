@@ -17,6 +17,7 @@ I received Ph.D. in Computer Science and Engineering from the [University of Not
 
 <div>
 <b>PhD applicants:</b> I will be looking to hire one or two graduate students this year. So please apply directly through the [School of Data Science](https://sds.cuhk.edu.cn/en/phd-programmes-CSE).
+  
 <br/>
   
 <b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume and transcripts. For undergraduates, the requirement is a solid engineering and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA3020.
