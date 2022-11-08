@@ -28,7 +28,3 @@ I received Ph.D. in Computer Science and Engineering from the [University of Not
 <b>Interns:</b> I am also taking visitors or students. Please send me an email for the details. 
 
 </div>
-
-
-
-{: style="background-color: #ffffcc; float: left;"}
