@@ -21,7 +21,7 @@ I received Ph.D. in Computer Science and Engineering from the [University of Not
   
 <br/>
   
-<b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is a solid engineering and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA3020.
+<b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is solid engineering and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA3020.
   
 <br/>
   
