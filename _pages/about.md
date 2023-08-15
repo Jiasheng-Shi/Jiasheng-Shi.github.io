@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor<br> Daoyuan Building 323b<br><a href="https://sds.cuhk.edu.cn/en/">School of Data Science</a><br><a href="https://cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a> 
+description: Assistant Professor<br> Daoyuan Building 417d<br><a href="https://sds.cuhk.edu.cn/en/">School of Data Science</a><br><a href="https://cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a> 
 
 profile:
   align: right 
@@ -13,7 +13,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-I received Ph.D. in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Chaoli Wang](http://sites.nd.edu/chaoli-wang/). Before that, I obtained my BS in Software Engineering and MS in Computer Software and Theory. Both are from [Xidian University](https://www.xidian.edu.cn/). My research interests lie in the general area of human-computer interaction, scientific visualization, and machine learning.
+Hi, I am an assistant professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen. 
+
+Before joining CUHKsz, I was a Postdoctoral Researcher in the Department of Biostatistics, Epidemiology, and Informatics, at the University of Pennsylvania, and in the Department of Research, at the Children's Hospital of Philadelphia, during 2019-2023, supervised by Prof. [Yong Chen](https://penncil.med.upenn.edu/about-pi/) and Prof. [Jing Huang](https://www.cceb.med.upenn.edu/bio/jing-huang-phd). I obtained my Ph.D. from the Department of Statistics at the Chinese University of Hong Kong, under the supervision of Prof. [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html). Prior to CUHK, I received my B.S. in Mathematics from Zhejiang University in 2015.  
+
+My research interests lie in the general area of human-computer interaction, scientific visualization, and machine learning.
   
 <b>PhD applicants:</b> I will be looking to hire one or two graduate students in Fall 2023. So please apply directly through the <a href="https://sds.cuhk.edu.cn/en/phd-programmes-CSE">School of Data Science</a>.
 <br/>
