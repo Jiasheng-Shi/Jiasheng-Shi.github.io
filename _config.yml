@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Jun Han # the website title (if blank, full name will be used instead)
-first_name: Jun
-last_name: Han
-email: hanjun@cuhk.edu.cn
+title: Jiasheng Shi # the website title (if blank, full name will be used instead)
+first_name: Jiasheng
+last_name: Shi
+email: shijiasheng@cuhk.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
@@ -33,10 +33,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: stevenhan1991 # your GitHub user name
+github_username: Jiasheng-Shi # your GitHub user name
 #twitter_username: davelindell # your Twitter handle
 #linkedin_username: davelindell # your LinkedIn user name
-scholar_userid: 8i3v-a8AAAAJ&hl=en # your Google Scholar ID
+#scholar_userid: 8i3v-a8AAAAJ&hl=en # your Google Scholar ID
 orcid_id: # 0000-0002-7286-062X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -47,7 +47,7 @@ keybase_username: # your keybase user name
 
 contact_note: >
 
-google_analytics:  UA-85065092-1 # out your google-analytics code
+#google_analytics:  UA-85065092-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
