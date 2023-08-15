@@ -19,9 +19,9 @@ Before joining CUHKsz, I was a Postdoctoral Researcher in the Department of Bios
 
 <b>Research interests:</b> I am broadly interested in developing theory and methodology for analyzing large-scale and complex-structured data to address scientific problems arising from interdisciplinary studies. My current research interests include, [biostatistics] related: learning methods for infectious disease and pandemic prevention, (Electronic Health Records) EHR-based research, distributed analysis, Meta-analysis; and [probability and statistics] related: high-dimensional statistical inference, self-normalized limit theory, asymptotic theory in probability and statistics.  
 
-# <b>PhD applicants:</b> I will be looking to hire one or two graduate students in Fall 2024. So please apply directly through the <a href="https://sds.cuhk.edu.cn/en/phd-programmes-CSE">School of Data Science</a>.
+<b>PhD applicants:</b> I will be looking to hire one or two graduate students in Fall 2024. So please apply directly through the <a href="https://sds.cuhk.edu.cn/en/phd-programmes-CSE">School of Data Science</a>.
 <br/>
 <b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is solid engineering and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA3020.
 <br/>
-# <b>Interns:</b> I am also taking visitors. Please send me an email for the details. 
+#  <b>Interns:</b> I am also taking visitors. Please send me an email for the details. 
 
