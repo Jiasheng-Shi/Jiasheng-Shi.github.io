@@ -13,7 +13,7 @@ nav: true
 
 </div>
   <div class="text">
-    <div class="title"><a name="CoordNet" href="http://stevenhan1991.github.io/assets/pdf/CoordNet-Paper.pdf">CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network</a>
+    <div class="title"><a name="CoordNet" href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Paper.pdf">CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network</a>
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
@@ -21,9 +21,9 @@ nav: true
     </div>
     <div>
                   <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet-Paper.pdf">Paper</a></span> /
-	          <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet-Appendix.pdf">Appendix</a></span> /
-	           <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/CoordNet.wmv">Video</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Paper.pdf">Paper</a></span> /
+	          <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Appendix.pdf">Appendix</a></span> /
+	           <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet.wmv">Video</a></span>
     </div>
   </div>
 	
@@ -31,10 +31,10 @@ nav: true
 <hr>
 	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
+<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="DL4SciVis" href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
+    <div class="title"><a name="DL4SciVis" href="http://Jiasheng-Shi.github.io/assets/pdf/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
     </div> 
     <div class="authors">
 	    <span class="author">Chaoli Wang and</span>
@@ -42,17 +42,17 @@ nav: true
     </div>
     <div>
                   <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
     </div>
   </div>
 	
 
 <hr>
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
+<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="SurfNet" href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
+    <div class="title"><a name="SurfNet" href="http://Jiasheng-Shi.github.io/assets/pdf/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
     </div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
@@ -60,7 +60,7 @@ nav: true
     </div>
     <div>
                   <span class="venue">CGF (EuroVis 2022)</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
     </div>
   </div>
 	
@@ -68,10 +68,10 @@ nav: true
 <hr>
 	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
+<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">AQX: Explaining Air Quality Forecast for Verifying Domain Knowledge using Feature Importance Visualization</a></div> 
+    <div class="title"><a name="aqx" href="http://Jiasheng-Shi.github.io/assets/pdf/iui22-aqx.pdf">AQX: Explaining Air Quality Forecast for Verifying Domain Knowledge using Feature Importance Visualization</a></div> 
     <div class="authors">
 	    <span class="author">Reshika Palaniyappan Velumani</span>,
 	    <span class="author">Meng Xia</span>,
@@ -82,16 +82,16 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">ACM IUI 2022</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
 	  </div>
   </div>	  
 	
 <hr>	
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/s2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
+<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/s2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="aqx" href="http://stevenhan1991.github.io/assets/pdf/pvis22-s2v.pdf">Scalar2Vec: Translating Scalar Fields to Vector Fields via Deep Learning</a></div> 
+    <div class="title"><a name="aqx" href="http://Jiasheng-Shi.github.io/assets/pdf/pvis22-s2v.pdf">Scalar2Vec: Translating Scalar Fields to Vector Fields via Deep Learning</a></div> 
     <div class="authors">
 	    <span class="author">Pengfei Gu</span>,
 	    <span class="author"><b>Jun Han</b></span>,
@@ -100,23 +100,23 @@ nav: true
     </div>
 	  <div>
                   <span class="venue">IEEE PacificVis 2022</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/pvis22-s2v.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/pvis22-s2v.pdf">Paper</a></span>
 	  </div>
   </div>	  
 	
 <hr>
 	
-<div class="img"><img class="img_responsive" src="http://stevenhan1991.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:75px;" alt="spotlight_vcnet" align="left">
+<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:75px;" alt="spotlight_vcnet" align="left">
 	</div>
   <div class="text">
-    <div class="title"><a name="vcnet" href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
+    <div class="title"><a name="vcnet" href="http://Jiasheng-Shi.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
     <div class="authors">
 	    <span class="author"><b>Jun Han</b></span>
 	    <span class="author">and Chaoli Wang</span>
     </div>
 	  <div>
                   <span class="venue">Visual Informatics</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/VCNet.pdf">Paper</a></span>
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/VCNet.pdf">Paper</a></span>
 	  </div>
   </div>
 <hr>
