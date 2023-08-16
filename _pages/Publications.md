@@ -66,7 +66,6 @@ nav: true
 
 <br> 	  
 <b> 2022 </b> 
-<br/>
 
   <div class="text">
     <div class="title"><a name="RefindDeviationTheorem" href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Refined Cramér-type moderate deviation theorems for general self-normalized sums with applications to dependent random variables and winsorized mean</a>
