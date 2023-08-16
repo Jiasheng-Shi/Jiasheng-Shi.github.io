@@ -13,16 +13,17 @@ nav: true
 	
 </div>
   <div class="text">
-    <div class="title"><a name="SSR-TVD" href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization
-</a>
+    <div class="title"><a name="SSR-TVD" href="">Distributed Proportional Likelihood Ratio Model with Application to Data Integration Across
+Clinical Sites</a>
     </div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Chaoli Wang</span>
+	    <span class="author">Chongliang Luo, Rui Duan</span>,
+	    <span class="author"><b>Jiasheng Shi</b></span>,
+	    <span class="author">Mackenzie Edmondson, Mitchell Maltenfort, Jeffrey S. Morris, Christopher Forrest, Rebecca Hubbard and Yong Chen</span>.
     </div>
     <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">Paper</a></span>
+                  <span class="venue">The Annals of Applied Statistics</span> /
+                  <span class="tag"><a href="">Paper</a></span>
     </div>
   </div>
 	
@@ -59,7 +60,7 @@ nav: true
     <div class="authors">
 	    <span class="author">Jing Huang, Brian T. Fisher, Vicky Tam, Zi Wang, Lihai Song</span>,
 	    <span class="author"><b>Jiasheng Shi</b></span>,
-	    <span class="author">Xi Wang, Jeffrey S. Morris, Susan E. Coffin, David Rubin.</span>
+	    <span class="author">Xi Wang, Jeffrey S. Morris, Susan E. Coffin, and David Rubin.</span>
     </div>
     <div>
                   <span class="venue">Health Affairs</span> /
@@ -70,14 +71,14 @@ nav: true
 
 <hr>
 
-</div>
+
   <div class="text">
     <div class="title"><a name="EHRMissingness" href="https://academic.oup.com/jamia/article-abstract/30/7/1246/7126960">Missing data matter: an empirical evaluation of the impacts of missing EHR data in comparative effectiveness research</a>
     </div> 
     <div class="authors">
 	    <span class="author">Yizhao Zhou</span>,
 	    <span class="author"><b>Jiasheng Shi</b></span>,
-	    <span class="author">Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, Jing Huang</span>.
+	    <span class="author">Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, and Jing Huang</span>.
     </div>
     <div>
                   <span class="venue">Journal of the American Medical Informatics Association</span> /
@@ -87,6 +88,3 @@ nav: true
 	
 
 <hr>
-
- 
- </div>
