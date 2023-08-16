@@ -24,8 +24,6 @@ nav: true
                   <span class="venue">The Annals of Applied Statistics</span> /
                   <span class="tag"><a href="">Paper</a></span>
     </div>
-	  <div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/COVID-TSI1.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="">
-    </div>
   </div>
 	
 
@@ -41,6 +39,8 @@ nav: true
     <div>
                   <span class="venue">Under revision.</span> /
                   <span class="tag"><a href="https://arxiv.org/pdf/2212.08282.pdf">Arxiv Paper</a></span>
+    </div>
+	 <div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/COVID-TSI1.jpg" style="border:1px solid black width:1202px;height:525px;" alt="spotlight_dl4scivis" align="middle">
     </div>
   </div>
 
