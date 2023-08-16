@@ -13,17 +13,16 @@ nav: true
 
 </div>
   <div class="text">
-    <div class="title"><a name="CoordNet" href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Paper.pdf">CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network</a>
+    <div class="title"><a name="CoordNet" href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Refined Cramér-type moderate deviation theorems for general self-normalized sums with applications to dependent random variables and winsorized mean</a>
     </div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Chaoli Wang</span>
+	    <span class="author"><b>Lan Gao</b></span>,
+	    <span class="author">Qi-Man Shao</span>,
+	    <span class="author">and Jiasheng Shi</span>
     </div>
     <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Paper.pdf">Paper</a></span> /
-	          <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet-Appendix.pdf">Appendix</a></span> /
-	           <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/CoordNet.wmv">Video</a></span>
+                  <span class="venue">The Annals of Statistics</span> /
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Paper</a></span> 
     </div>
   </div>
 	
