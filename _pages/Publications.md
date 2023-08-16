@@ -69,77 +69,23 @@ nav: true
 	
 
 <hr>
-	
-<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/SurfNet.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_surfnet" align="left">
+
 </div>
   <div class="text">
-    <div class="title"><a name="SurfNet" href="http://Jiasheng-Shi.github.io/assets/pdf/SurfNet.pdf">SurfNet: Learning Surface Representations via Graph Convolutional Network</a>
+    <div class="title"><a name="EHRMissingness" href="https://academic.oup.com/jamia/article-abstract/30/7/1246/7126960">Missing data matter: an empirical evaluation of the impacts of missing EHR data in comparative effectiveness research</a>
     </div> 
     <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Chaoli Wang</span>
+	    <span class="author">Yizhao Zhou</span>,
+	    <span class="author"><b>Jiasheng Shi</b></span>,
+	    <span class="author">Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, Jing Huang</span>.
     </div>
     <div>
-                  <span class="venue">CGF (EuroVis 2022)</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/SurfNet.pdf">Paper</a></span>
+                  <span class="venue">Journal of the American Medical Informatics Association</span> /
+                  <span class="tag"><a href="https://academic.oup.com/jamia/article-abstract/30/7/1246/7126960">Paper</a></span>
     </div>
   </div>
 	
 
-<hr>
-	
-	
-<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/AQX.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
-	</div>
-  <div class="text">
-    <div class="title"><a name="aqx" href="http://Jiasheng-Shi.github.io/assets/pdf/iui22-aqx.pdf">AQX: Explaining Air Quality Forecast for Verifying Domain Knowledge using Feature Importance Visualization</a></div> 
-    <div class="authors">
-	    <span class="author">Reshika Palaniyappan Velumani</span>,
-	    <span class="author">Meng Xia</span>,
-	    <span class="author"><b>Jun Han</b></span>,
-	    <span class="author">Chaoli Wang</span>,
-	    <span class="author">Alexis Lau</span>,
-	    <span class="author">and Huaming Qu</span>
-    </div>
-	  <div>
-                  <span class="venue">ACM IUI 2022</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/iui22-aqx.pdf">Paper</a></span>
-	  </div>
-  </div>	  
-	
-<hr>	
-	
-<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/s2v.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_aqx" align="left">
-	</div>
-  <div class="text">
-    <div class="title"><a name="aqx" href="http://Jiasheng-Shi.github.io/assets/pdf/pvis22-s2v.pdf">Scalar2Vec: Translating Scalar Fields to Vector Fields via Deep Learning</a></div> 
-    <div class="authors">
-	    <span class="author">Pengfei Gu</span>,
-	    <span class="author"><b>Jun Han</b></span>,
-	    <span class="author">Danny Z. Chen</span>,
-	    <span class="author">and Chaoli Wang</span>
-    </div>
-	  <div>
-                  <span class="venue">IEEE PacificVis 2022</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/pvis22-s2v.pdf">Paper</a></span>
-	  </div>
-  </div>	  
-	
-<hr>
-	
-<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/VCNet.jpg" style="border:1px solid black width:200px;height:75px;" alt="spotlight_vcnet" align="left">
-	</div>
-  <div class="text">
-    <div class="title"><a name="vcnet" href="http://Jiasheng-Shi.github.io/assets/pdf/VCNet.pdf">VCNet: A Generative Model for Volume Completion</a></div> 
-    <div class="authors">
-	    <span class="author"><b>Jun Han</b></span>
-	    <span class="author">and Chaoli Wang</span>
-    </div>
-	  <div>
-                  <span class="venue">Visual Informatics</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/VCNet.pdf">Paper</a></span>
-	  </div>
-  </div>
 <hr>
 
  
