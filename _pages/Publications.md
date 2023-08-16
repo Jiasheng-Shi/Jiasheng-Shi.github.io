@@ -24,6 +24,8 @@ nav: true
                   <span class="venue">The Annals of Applied Statistics</span> /
                   <span class="tag"><a href="">Paper</a></span>
     </div>
+	  <div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/COVID-TSI1.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="">
+    </div>
   </div>
 	
 
