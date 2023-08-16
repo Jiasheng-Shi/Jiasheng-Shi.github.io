@@ -3,11 +3,34 @@ layout: page
 permalink: /Publications/
 title: Publications
 description: 
-years: [2022]
+years: [2023,2022]
 nav: true
 ---
 <div class="Publications">
-  
+
+
+<b> 2023 </b>
+	
+</div>
+  <div class="text">
+    <div class="title"><a name="SSR-TVD" href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">SSR-TVD: Spatial Super-Resolution for Time-Varying Data Analysis and Visualization
+</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">and Chaoli Wang</span>
+    </div>
+    <div>
+                  <span class="venue">IEEE TVCG</span> /
+                  <span class="tag"><a href="http://stevenhan1991.github.io/assets/pdf/SSR-TVD.pdf">Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
+
+
+<br> 	  
 <b> 2022 </b> 
 
 
@@ -29,19 +52,18 @@ nav: true
 
 <hr>
 	
-	
-<div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/DL4SciVis.jpg" style="border:1px solid black width:200px;height:100px;" alt="spotlight_dl4scivis" align="left">
 </div>
   <div class="text">
-    <div class="title"><a name="DL4SciVis" href="http://Jiasheng-Shi.github.io/assets/pdf/DL4SciVis.pdf">DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization</a>
+    <div class="title"><a name="MaskingMandates" href="http://Jiasheng-Shi.github.io/assets/pdf/MaskingMandatesHealthAffair.pdf">The Effectiveness Of Government Masking Mandates On COVID-19 County-Level Case Incidence Across The United States, 2020</a>
     </div> 
     <div class="authors">
-	    <span class="author">Chaoli Wang and</span>
-	    <span class="author"><b>Jun Han</b></span>
+	    <span class="author">Jing Huang, Brian T. Fisher, Vicky Tam, Zi Wang, Lihai Song</span>,
+	    <span class="author"><b>Jiasheng Shi</b></span>,
+	    <span class="author">Xi Wang, Jeffrey S. Morris, Susan E. Coffin, David Rubin.</span>
     </div>
     <div>
-                  <span class="venue">IEEE TVCG</span> /
-                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/DL4SciVis.pdf">Paper</a></span>
+                  <span class="venue">Health Affairs</span> /
+                  <span class="tag"><a href="http://Jiasheng-Shi.github.io/assets/pdf/MaskingMandatesHealthAffair.pdf">Paper</a></span>
     </div>
   </div>
 	
