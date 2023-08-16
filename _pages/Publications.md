@@ -40,9 +40,8 @@ Clinical Sites</a>
     <div class="title"><a name="RefindDeviationTheorem" href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Refined Cramér-type moderate deviation theorems for general self-normalized sums with applications to dependent random variables and winsorized mean</a>
     </div> 
     <div class="authors">
-	    <span class="author">Lan Gao</span>,
-	    <span class="author">Qi-Man Shao</span>,
-	    <span class="author">and <b>Jiasheng Shi</b></span>
+	    <span class="author"><b>Jiasheng Shi</b></span>
+	    <span class="author">with Lan Gao, Qi-Man Shao</span>
     </div>
     <div>
                   <span class="venue">The Annals of Statistics</span> /
