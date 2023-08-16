@@ -29,7 +29,21 @@ nav: true
 
 <hr>
 
-</div>
+<div class="text">
+    <div class="title"><a name="COVID-TSI" href="https://arxiv.org/pdf/2212.08282.pdf">Robust modeling and inference of disease transmission using error-prone data with application to SARS-CoV-2</a>
+    </div> 
+    <div class="authors">
+	    <span class="author"><b>Jiasheng Shi</b></span>,
+	    <span class="author">Jeffrey S. Morris, David M. Rubin, and Jing Huang</span>
+    </div>
+    <div>
+                  <span class="venue">Under revision.</span> /
+                  <span class="tag"><a href="https://arxiv.org/pdf/2212.08282.pdf">Arxiv Paper</a></span>
+    </div>
+  </div>
+
+<hr>
+
   <div class="text">
     <div class="title"><a name="identifiability" href="https://arxiv.org/pdf/2103.12846.pdf">On the global identifiability of logistic regression models with misclassified outcomes</a>
     </div> 
@@ -47,11 +61,11 @@ nav: true
 
 <hr>
 
+
 <br> 	  
 <b> 2022 </b> 
 
 
-</div>
   <div class="text">
     <div class="title"><a name="RefindDeviationTheorem" href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Refined Cramér-type moderate deviation theorems for general self-normalized sums with applications to dependent random variables and winsorized mean</a>
     </div> 
