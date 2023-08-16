@@ -13,8 +13,7 @@ nav: true
 	
 </div>
   <div class="text">
-    <div class="title"><a name="SSR-TVD" href="">Distributed Proportional Likelihood Ratio Model with Application to Data Integration Across
-Clinical Sites</a>
+    <div class="title"><a name="PLRM" href="">Distributed Proportional Likelihood Ratio Model with Application to Data Integration Across Clinical Sites</a>
     </div> 
     <div class="authors">
 	    <span class="author">Chongliang Luo, Rui Duan</span>,
@@ -30,6 +29,23 @@ Clinical Sites</a>
 
 <hr>
 
+</div>
+  <div class="text">
+    <div class="title"><a name="identifiability" href="https://arxiv.org/pdf/2103.12846.pdf">On the global identifiability of logistic regression models with misclassified outcomes</a>
+    </div> 
+    <div class="authors">
+	    <span class="author">Rui Duan, Yang Ning</span>,
+	    <span class="author"><b>Jiasheng Shi</b></span>,
+	    <span class="author">Raymond J Carroll, Tianxi Cai, and Yong Chen</span>
+    </div>
+    <div>
+                  <span class="venue">Under revision.</span> /
+                  <span class="tag"><a href="https://arxiv.org/pdf/2103.12846.pdf">Arxiv Paper</a></span>
+    </div>
+  </div>
+	
+
+<hr>
 
 <br> 	  
 <b> 2022 </b> 
@@ -52,7 +68,6 @@ Clinical Sites</a>
 
 <hr>
 	
-</div>
   <div class="text">
     <div class="title"><a name="MaskingMandates" href="http://Jiasheng-Shi.github.io/assets/pdf/MaskingMandatesHealthAffair.pdf">The Effectiveness Of Government Masking Mandates On COVID-19 County-Level Case Incidence Across The United States, 2020</a>
     </div> 
