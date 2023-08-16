@@ -38,7 +38,8 @@ nav: true
     </div>
     <div>
                   <span class="venue">Under revision.</span> /
-                  <span class="tag"><a href="https://arxiv.org/pdf/2212.08282.pdf">Arxiv Paper</a></span>
+                  <span class="tag"><a href="https://arxiv.org/pdf/2212.08282.pdf">Arxiv Paper</a></span> 
+    </div>
     </div>
     </div>
 	 <div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/COVID-TSI1.jpg" style="border:1px solid black width:601px;height:262px;" alt="spotlight_dl4scivis" class="center">
