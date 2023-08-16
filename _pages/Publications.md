@@ -19,7 +19,7 @@ Clinical Sites</a>
     <div class="authors">
 	    <span class="author">Chongliang Luo, Rui Duan</span>,
 	    <span class="author"><b>Jiasheng Shi</b></span>,
-	    <span class="author">Mackenzie Edmondson, Mitchell Maltenfort, Jeffrey S. Morris, Christopher Forrest, Rebecca Hubbard and Yong Chen</span>.
+	    <span class="author">Mackenzie Edmondson, Mitchell Maltenfort, Jeffrey S. Morris, Christopher Forrest, Rebecca Hubbard and Yong Chen</span>
     </div>
     <div>
                   <span class="venue">The Annals of Applied Statistics</span> /
@@ -59,7 +59,7 @@ Clinical Sites</a>
     <div class="authors">
 	    <span class="author">Jing Huang, Brian T. Fisher, Vicky Tam, Zi Wang, Lihai Song</span>,
 	    <span class="author"><b>Jiasheng Shi</b></span>,
-	    <span class="author">Xi Wang, Jeffrey S. Morris, Susan E. Coffin, and David Rubin.</span>
+	    <span class="author">Xi Wang, Jeffrey S. Morris, Susan E. Coffin, and David Rubin</span>
     </div>
     <div>
                   <span class="venue">Health Affairs</span> /
@@ -77,7 +77,7 @@ Clinical Sites</a>
     <div class="authors">
 	    <span class="author">Yizhao Zhou</span>,
 	    <span class="author"><b>Jiasheng Shi</b></span>,
-	    <span class="author">Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, and Jing Huang</span>.
+	    <span class="author">Ronen Stein, Xiaokang Liu, Robert N Baldassano, Christopher B Forrest, Yong Chen, and Jing Huang</span>
     </div>
     <div>
                   <span class="venue">Journal of the American Medical Informatics Association</span> /
