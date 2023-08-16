@@ -41,7 +41,6 @@ nav: true
                   <span class="tag"><a href="https://arxiv.org/pdf/2212.08282.pdf">Arxiv Paper</a></span> 
     </div>
     </div>
-    </div>
 	 <div class="img"><img class="img_responsive" src="http://Jiasheng-Shi.github.io/assets/img/publications/COVID-TSI1.jpg" style="border:1px solid black width:601px;height:262px;" alt="spotlight_dl4scivis" class="center">
     </div>
   </div>
@@ -68,7 +67,7 @@ nav: true
 
 <br> 	  
 <b> 2022 </b> 
-</div>
+<br/>
 
   <div class="text">
     <div class="title"><a name="RefindDeviationTheorem" href="http://Jiasheng-Shi.github.io/assets/pdf/RefindDeviationTheorem2022.pdf">Refined Cramér-type moderate deviation theorems for general self-normalized sums with applications to dependent random variables and winsorized mean</a>
