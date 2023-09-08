@@ -21,7 +21,7 @@ nav: true
    <ul>
 <li><p><b>What is the best way/technology for students to contact you? Are there time frames in which students should expect to hear from you?</b></p>
 </li>
-<li><p>The best way to contact me is through email and WeChat. Students can also send me messages on WeChat if they want to discuss anything more private or personal. Students should generally expect a quick response from me in one or two hours.  </p>
+<li><p>The best way to contact me is through email. Students can also drop by my office if they want to discuss anything more private or personal. Students should generally expect a response from me within a day.  </p>
 </li>
 </ul>
   
