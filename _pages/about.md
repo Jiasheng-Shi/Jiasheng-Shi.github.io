@@ -21,6 +21,6 @@ Before joining CUHKsz, I was a Postdoctoral Researcher in the Department of Bios
 
 <b>PhD applicants:</b> I will be looking to hire one or two graduate students in Fall 2024. So please apply directly through the <a href="https://sds.cuhk.edu.cn/en/phd-programmes-CSE">School of Data Science</a>.
 <br/>
-<b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is solid programming and math skills. I prefer students who've taken some of these classes: DDA2003, CSC4130, CSC4140, and DDA3020.
+<b>Graduate or undergraduate students at CUHK-SZ:</b> Please send me an email with your interests, resume, and transcripts. For undergraduates, the requirement is a solid understanding of statistical inference and programming skills. I prefer students who've taken some of these classes: STA3020, STA3001, and STA3005.
 <br/>
 
