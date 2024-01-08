@@ -14,7 +14,6 @@ nav: true
 <li><p><b>How would you describe your advising style? Does your approach vary over the course of a student's progress within their degree?</b></p>
 </li>
 <li><p> I try to be hands-on in advising style for junior students and hand-off for senior students. For junior students, I expect to be involved in all aspects of the project: project selection, idea formulation, implementation, experiment design, paper writing, etc. I am always happy and glad to discuss or provide suggestions on implementation details if students need such help. As for senior students, I expect them should be independent. I expect senior students to become more proactive in idea formulation and implementation, and to need less supervision in implementation and experimental details. 
-{% For junior students (especially their first and second papers) I will directly edit papers; for senior students, I will prefer to provide feedback and comment on paper drafts. %}
  </p>
 </li>
 </ul>
