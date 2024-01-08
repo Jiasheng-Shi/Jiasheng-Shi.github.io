@@ -11,22 +11,16 @@ nav: true
  <b> Undergraduate Course </b>
 
   <div class="text">
-    <div class="title"><a name="HCI" href="https://stevenhan1991.github.io/CSC4130/index.html"><b>CSC4130 Introduction to Human-Computer Interaction</b></a>
+    <div class="title"><a name="HCI" href="https://jiasheng-shi.github.io/STA3020/index.html"><b>STA3020 Statistical Inference</b></a>
     </div> 
    
    <hr>
    
   <div class="text">
-    <div class="title"><a name="VS" href="https://stevenhan1991.github.io/DDA2003/index.html"><b>DDA2003 Visual Analytics</b></a>
+    <div class="title"><a name="VS" href="https://jiasheng-shi.github.io/STA3100/index.html"><b>STA3100 Statistical Inference II</b></a>
     </div> 
   <hr>
- 
- <b> Graduate Course</b>
 
-  <div class="text">
-    <div class="title"><a name="SV" href="https://stevenhan1991.github.io/DDA2003/index.html"><b>MDS6112 Data Visualization</b></a>
-    </div>
-   <hr>
  
 </div>
 
